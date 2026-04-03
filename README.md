@@ -16,7 +16,7 @@ Automatically detects panels, infers reading order, and exports optimized EPUB3 
 - **Multiple Input Formats**: PDF, CBR, CBZ, and image folders
 - **Batch Processing**: Process multiple chapters at once via CLI or GUI
 - **Kindle Export**: Single EPUB3 file optimized for Kindle 10th Gen (6", 1072×1448)
-- **Bilingual GUI**: Desktop app in English/Spanish with language persistence and custom icons
+- **Bilingual GUI**: Desktop app in English/Spanish with language persistence.
 
 ## Tech Stack
 
