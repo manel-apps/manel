@@ -1,6 +1,6 @@
 # Manel
 
-![Manel Logo](manel/assets/logo.png)
+![Manel Logo](manel/assets/logo_small.png)
 
 Turn manga pages into panel-by-panel reading for Kindle.
 
